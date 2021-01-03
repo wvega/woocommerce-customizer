@@ -3,6 +3,6 @@ module.exports = {
     deploy: {
         type: 'wp',
         production: 'file:///tmp/sake-dev/woocommerce-customizer'
-    }
+    },
 	framework: false
 }
